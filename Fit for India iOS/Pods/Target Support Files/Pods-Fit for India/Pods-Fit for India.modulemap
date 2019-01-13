@@ -1,0 +1,6 @@
+framework module Pods_Fit_for_India {
+  umbrella header "Pods-Fit for India-umbrella.h"
+
+  export *
+  module * { export * }
+}

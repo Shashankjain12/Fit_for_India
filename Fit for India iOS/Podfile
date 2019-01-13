@@ -1,0 +1,9 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Fit for India' do
+    # IMPORTANT: Make sure use_frameworks! is included at the top of the file
+    use_frameworks!
+
+    pod 'UICircularProgressRing'
+end
