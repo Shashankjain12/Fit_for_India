@@ -11,3 +11,4 @@ People go to the gym on the 1st January on the reason of "New Year Resolution" a
 **How cool it would be to get PAID for walking? And getting fitter?**
 
 Fit for India - Earn your walk is a mobile application which PAYS you to walk and shed the extra weight. 
+
